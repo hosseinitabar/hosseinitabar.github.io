@@ -5,11 +5,6 @@
 layout: home
 ---
 
-Alireza Hosseinitabar
-=====================
+Welcome to my page
 
-[@hosseinitabar](https://github.com/hosseinitabar)
-
-I'm a web designer and developer running a small team of specialist developers and designers and SEO masters with skills across a range of website development
-
-— aliexe
+Check out the [About][/about/] for more info about me.

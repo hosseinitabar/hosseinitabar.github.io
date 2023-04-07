@@ -5,6 +5,6 @@
 layout: home
 ---
 
-# Welcome to my page
+Welcome to my page
 
-Check out the [About](/about) for more info about me.
+Check out the [About](/about/) for more info about me.
